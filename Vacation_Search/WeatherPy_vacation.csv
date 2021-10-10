@@ -1,0 +1,23 @@
+City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
+36,Tiksi,RU,27.52,overcast clouds,71.6872,128.8694,Arktika
+49,Talnakh,RU,23.47,light snow,69.4865,88.3972,Talnakh Hotel
+51,Pevek,RU,21.96,overcast clouds,69.7008,170.3133,Severnoye Zoloto
+72,Barrow,US,25.93,overcast clouds,71.2906,-156.7887,King Eider Inn
+79,Uvat,RU,27.48,clear sky,59.1433,68.8953,Uvatskiy Rayonnyy Dom Kul'tury
+89,Tynda,RU,26.69,broken clouds,55.1667,124.7167,"Gostinitsa ""Tayezhnaya"""
+116,Inta,RU,29.1,broken clouds,66.0317,60.1659,Apartments in Inta city
+134,Qaanaaq,GL,29.61,overcast clouds,77.484,-69.3632,Qaanaaq Hotel
+170,Tasiilaq,GL,26.69,clear sky,65.6145,-37.6368,The Red House
+213,Aklavik,CA,28.47,overcast clouds,68.2191,-135.0107,Aklavik Inn
+240,Kyshtovka,RU,29.05,broken clouds,56.555,76.6271,Uyutnaya Mini-Hotel
+255,Dudinka,RU,25.68,snow,69.4058,86.1778,Hotel Viktoria
+282,Longyearbyen,SJ,21.04,few clouds,78.2186,15.6401,"Radisson Blu Polar Hotel, Spitsbergen"
+306,Norman Wells,CA,28.98,overcast clouds,65.282,-126.8329,Heritage Hotel
+318,Zyuzelskiy,RU,26.44,overcast clouds,56.4856,60.1331,Caravan
+462,Tarko-Sale,RU,27.86,scattered clouds,64.9225,77.785,Yubileynaya
+486,Muravlenko,RU,27.63,scattered clouds,63.7898,74.523,Hostel Rus Muravlenko
+521,Makinsk,KZ,28.29,overcast clouds,52.6292,70.4169,Bereke
+604,Gornopravdinsk,RU,27.79,clear sky,60.05,69.9,Burovik
+617,Aldan,RU,29.19,overcast clouds,58.6031,125.3894,Aldan Guest House
+704,Chulman,RU,28.56,broken clouds,56.8479,124.9104,Gostinitsa
+724,Krasnoselkup,RU,25.88,scattered clouds,65.7,82.4667,Krasnosel'kupnefteprodukt
