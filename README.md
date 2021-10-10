@@ -24,8 +24,8 @@
 1. The Vacation_Search.ipynb file
 2. The WeatherPy_vacation.csv file
 3. The WeatherPy_vacation_map.png image
-4. The Vacation_Itinerary folder with the following:
 
-### The Vacation_Itinerary.ipynb file
-1. The WeatherPy_travel_map.png image
-2. The WeatherPy_travel_map_markers.png image
+### The Vacation_Itinerary folder with the following:
+1. The Vacation_Itinerary.ipynb file
+2. The WeatherPy_travel_map.png image
+3. The WeatherPy_travel_map_markers.png image
